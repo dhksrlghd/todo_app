@@ -14,12 +14,12 @@ git remote add origin <원격지 주소>
 
 git pull origin main
 
-# git status로 staging area에 add 되었는지와 commit 되었는지 확인해 보기
+# git status로 staging area에 add되었는지와 commit 되었는지 확인해 보기
 git add -A
-# git status로 staging area에 add 되었는지와 commit 되었는지 확인해 보기
+
 git commit -m '<커밋 메세지>'
-# git status로 staging area에 add 되었는지와 commit 되었는지 확인해 보기
-git push origin main
+
+git push origin main 
 
 
 '''
